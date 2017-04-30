@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css?family=Asar|Play');
+.header {
+    width: 960px;
+    margin: auto;
+    background-color: rgba(255, 255, 255, 0.5);
+    text-align: center;
+    list-style: none;
+}
+h1 {
+    text-align: center;
+    font-family: 'Asar', serif;
+}
+p {
+    text-align: center;
+    font-family: 'Play', sans-serif;
+}
+.nav {
+    height: auto;
+}
+.nav ul li {
+    display: inline-block;
+    width: 100%;
+    font-family: 'Asar', serif;
+    margin-top: 6px;
+    text-align: left;
+}
+.nav ul{
+    margin-top: 0px;
+}
+a{
+    text-decoration: none;
+}
+.step {
+    width: auto;
+    text-align: center;
+}
+.step a{
+    display: inline-block;
+    padding: 50px 150px;
+    background-color: lightblue;
+    color: yellow;
+    margin: 20px 0px;
+    font-size: large;
+}
+.content {
+    width: auto;
+    text-align: center;
+}
